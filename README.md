@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <img src = "https://github.com/RyanBarszcz/RyanBarszcz/blob/main/header.png" alt="banner that says Ryan Barszcz - software developer, artist, and designer.">
 
 <!--

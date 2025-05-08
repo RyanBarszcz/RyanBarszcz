@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="Logo.gif" alt="Logo GIF" width="600"/>
+</p>
+
 <h1 align="center">
   I'm Ryan, a student at the University of Michigan Ann Arbor.
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Blue%20Heart.png" alt="Blue Heart" width="30" height="30" />

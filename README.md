@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+<img src = "https://github.com/RyanBarszcz/RyanBarszcz/blob/main/header.png" alt="banner that says Ryan Barszcz - software developer, artist, and designer.">
+
 <!--
 **RyanBarszcz/RyanBarszcz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

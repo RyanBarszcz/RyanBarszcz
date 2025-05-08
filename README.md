@@ -1,6 +1,6 @@
 <img src = "https://github.com/RyanBarszcz/RyanBarszcz/blob/main/header.png" alt="banner that says Ryan Barszcz - software developer, artist, and designer.">
 
-### <div align="center">I'm Ryan, a student at the University of Michigan Ann Arbor.</div>  
+### <div align="center">I'm Ryan, a student at the University of Michigan Ann Arbor. <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Blue%20Heart.png" alt="Blue Heart" width="25" height="25" /></div>  
   
 
 - 🔭 I’m currently developing a high-fidelity Ferrari SF90 showcase website inspired by Rivian’s R1S product page, featuring smooth scroll animations and interactive 3D visuals.  

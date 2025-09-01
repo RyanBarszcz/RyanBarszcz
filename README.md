@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">
-  I'm Ryan, a student at the University of Michigan Ann Arbor.
+  I'm Ryan, a recent college grad from the University of Michigan Ann Arbor.
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Blue%20Heart.png" alt="Blue Heart" width="30" height="30" />
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Yellow%20Heart.png" alt="Yellow Heart" width="30" height="30" />
 </h1> 

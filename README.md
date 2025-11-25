@@ -56,7 +56,7 @@
 
 ### 💻 Featured Project: Liberty Website
 <p align="center">
-  <img src="/preview.png" alt="Liberty Website Preview" width="700"/>
+  <img src="preview.png" alt="Liberty Website Preview" width="700"/>
 </p>
 
 <p align="center">

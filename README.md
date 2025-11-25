@@ -55,11 +55,16 @@
 ---
 
 ### 💻 Featured Project: Liberty Website
+p align="center">
+  <img src="/preview.png" alt="Liberty Website Preview" width="700"/>
+</p>
+
 <p align="center">
   <a href="https://liberty-website.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Visit%20Site-002bba?style=for-the-badge&logo=vercel&logoColor=white" alt="Visit Liberty Website"/>
   </a>
 </p>
+
 
 > **Tech Stack:** React • Vite • TailwindCSS • GSAP • Sanity.io • Vercel  
 >

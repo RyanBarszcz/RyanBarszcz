@@ -3,13 +3,23 @@
 </p>
 
 <h1 align="center">
-  Hi, I'm Ryan 👋 — a recent Computer Science grad from the University of Michigan, Ann Arbor  
+  Hi, I'm Ryan 👋
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Blue%20Heart.png" alt="Blue Heart" width="28" height="28" />
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Yellow%20Heart.png" alt="Yellow Heart" width="28" height="28" />
 </h1>
 
 <p align="center">
   <b>Software Engineer • Frontend Developer • Automotive Technology Enthusiast</b>
+</p>
+
+<p align="center">
+  University of Michigan Computer Science Graduate
+</p>
+
+<p align="center">
+  <a href="https://ryanbarszcz.com">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge" />
+  </a>
 </p>
 
 ---
@@ -22,35 +32,16 @@
 
 ---
 
-### 🧰 My Skill Set  
+## Tech Stack
 
-<table><tr><td valign="top" width="50%">
+Frontend:
+React • Next.js • TypeScript • TailwindCSS • GSAP
 
-#### 🎨 Frontend  
-<div align="center">  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50"/></a>  
-<a href="https://vitejs.dev/" target="_blank"><img style="margin: 10px" src="https://vitejs.dev/logo.svg" alt="Vite" height="50"/></a>  
-<a href="https://tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50"/></a>  
-<a href="https://greensock.com/gsap/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/greensock.svg" alt="GSAP" height="50"/></a>  
-<a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50"/></a>  
-<a href="https://www.adobe.com/products/illustrator.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="50"/></a>  
-<a href="https://www.adobe.com/products/photoshop.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50"/></a>  
-</div>
+Backend:
+Node.js • Express • Prisma • PostgreSQL
 
-</td><td valign="top" width="50%">
-
-#### ⚙️ Backend  
-<div align="center">  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50"/></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50"/></a>  
-<a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50"/></a>  
-<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50"/></a>  
-<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50"/></a>  
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50"/></a>  
-<a href="https://git-scm.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50"/></a>  
-</div>
-
-</td></tr></table>  
+Tools:
+Clerk • Vercel • Neon • Firebase • Git • Figma
 
 ---
 
@@ -82,6 +73,14 @@
 <img src="https://img.shields.io/badge/Instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
 </a>  
 </p>  
+
+---
+
+## Currently Building
+
+- Liberty POS — Full-stack athletic club cafe/POS platform
+- Automotive telemetry dashboards and racing-inspired UI systems
+- Modern React/Next.js frontend experiences
 
 ---
 

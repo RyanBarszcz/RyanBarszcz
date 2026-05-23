@@ -85,15 +85,6 @@
 
 ---
 
-### 📊 GitHub Stats  
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RyanBarszcz&show_icons=true&count_private=true&hide_border=true&theme=transparent" alt="Ryan's GitHub Stats"/>
-  <br/>
-  <img src="https://komarev.com/ghpvc/?username=RyanBarszcz&&style=flat-square" alt="Profile views"/>
-</div>
-
----
-
 ### ☕ Support My Work  
 <p align="center">
   <a href="https://www.buymeacoffee.com/RyanBarszcz" target="_blank">

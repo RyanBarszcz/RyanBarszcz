@@ -8,7 +8,7 @@
 </h1>
 
 <p align="center">
-  <b>Software Engineer • Frontend Developer • Automotive Technology Enthusiast</b>
+  <b>Software Engineer • Full-Stack Developer • Automotive Technology Enthusiast</b>
 </p>
 
 <p align="center">
@@ -27,11 +27,12 @@
 ---
 
 ### 🚀 About Me
-- 💪 I recently completed the **Liberty Athletic Club website**, a modern, design-driven React platform that integrates with a **headless CMS (Sanity.io)** for live content management.  
-- ✨ The project features dynamic trainer data, GSAP-powered animations, and a fully responsive layout built from scratch with TailwindCSS.  
-- 🧠 I’m passionate about combining **engineering and design**, creating web experiences that feel fluid, immersive, and visually consistent.  
-- ⚡ Fun fact: my past social media following could fill the **Michigan Big House six times over**.  
 
+- 💻 Recent Computer Science graduate from the University of Michigan, Ann Arbor
+- ⚡ Passionate about building immersive frontend experiences and production-style full-stack systems
+- 🏎️ Interested in automotive software, telemetry dashboards, infotainment UI, and performance-focused design
+- ✨ Built modern platforms using React, Next.js, TypeScript, Prisma, PostgreSQL, Clerk, GSAP, and TailwindCSS
+- 🧠 Strong focus on combining engineering, architecture, and visual design into polished user experiences
 ---
 
 ## Tech Stack
@@ -44,6 +45,15 @@ Node.js • Express • Prisma • PostgreSQL
 
 Tools:
 Clerk • Vercel • Neon • Firebase • Git • Figma
+
+<p align="left">
+  <img src="https://img.shields.io/badge/React-black?style=flat-square&logo=react" />
+  <img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js" />
+  <img src="https://img.shields.io/badge/TypeScript-blue?style=flat-square&logo=typescript" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql" />
+  <img src="https://img.shields.io/badge/Prisma-black?style=flat-square&logo=prisma" />
+  <img src="https://img.shields.io/badge/TailwindCSS-38bdf8?style=flat-square&logo=tailwind-css" />
+</p>
 
 ---
 
@@ -85,11 +95,3 @@ Clerk • Vercel • Neon • Firebase • Git • Figma
 - Modern React/Next.js frontend experiences
 
 ---
-
-### ☕ Support My Work  
-<p align="center">
-  <a href="https://www.buymeacoffee.com/RyanBarszcz" target="_blank">
-    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-orange.svg?style=for-the-badge&logo=buymeacoffee" />
-  </a>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Hundred%20Points.png" alt="100 Points" width="25" height="25"/>
-</p>
